@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PiDigitsGUI
+comment1.params=
+comment1.target=PiDigitsGUI()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ run()
+comment4.params=digits
+comment4.target=void\ calculatePi(int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
